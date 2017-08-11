@@ -26,5 +26,11 @@ namespace TutorHub
         {
             InitializeComponent();
         }
+
+        private void metroButton2_Click(object sender, EventArgs e)
+        {
+            SignUp signUp = new SignUp();
+            signUp.Show();
+        }
     }
 }

@@ -41,27 +41,30 @@
             // metroLabel1
             // 
             this.metroLabel1.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel1.Location = new System.Drawing.Point(0, 30);
+            this.metroLabel1.Location = new System.Drawing.Point(0, 37);
+            this.metroLabel1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.metroLabel1.Name = "metroLabel1";
-            this.metroLabel1.Size = new System.Drawing.Size(600, 35);
+            this.metroLabel1.Size = new System.Drawing.Size(800, 43);
             this.metroLabel1.TabIndex = 0;
             this.metroLabel1.Text = "Sign up 2/3";
             this.metroLabel1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // metroLabel2
             // 
-            this.metroLabel2.Location = new System.Drawing.Point(188, 114);
+            this.metroLabel2.Location = new System.Drawing.Point(251, 140);
+            this.metroLabel2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.metroLabel2.Name = "metroLabel2";
-            this.metroLabel2.Size = new System.Drawing.Size(223, 30);
+            this.metroLabel2.Size = new System.Drawing.Size(297, 37);
             this.metroLabel2.TabIndex = 1;
             this.metroLabel2.Text = "Password";
             this.metroLabel2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // metroLabel3
             // 
-            this.metroLabel3.Location = new System.Drawing.Point(188, 218);
+            this.metroLabel3.Location = new System.Drawing.Point(251, 268);
+            this.metroLabel3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.metroLabel3.Name = "metroLabel3";
-            this.metroLabel3.Size = new System.Drawing.Size(223, 30);
+            this.metroLabel3.Size = new System.Drawing.Size(297, 37);
             this.metroLabel3.TabIndex = 2;
             this.metroLabel3.Text = "confirm password";
             this.metroLabel3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -72,9 +75,10 @@
             // 
             // 
             this.metroTextBox1.CustomButton.Image = null;
-            this.metroTextBox1.CustomButton.Location = new System.Drawing.Point(53, 1);
+            this.metroTextBox1.CustomButton.Location = new System.Drawing.Point(348, 1);
+            this.metroTextBox1.CustomButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroTextBox1.CustomButton.Name = "";
-            this.metroTextBox1.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.metroTextBox1.CustomButton.Size = new System.Drawing.Size(47, 43);
             this.metroTextBox1.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.metroTextBox1.CustomButton.TabIndex = 1;
             this.metroTextBox1.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -82,7 +86,8 @@
             this.metroTextBox1.CustomButton.Visible = false;
             this.metroTextBox1.Lines = new string[] {
         "metroTextBox1"};
-            this.metroTextBox1.Location = new System.Drawing.Point(188, 171);
+            this.metroTextBox1.Location = new System.Drawing.Point(251, 210);
+            this.metroTextBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroTextBox1.MaxLength = 32767;
             this.metroTextBox1.Name = "metroTextBox1";
             this.metroTextBox1.PasswordChar = '\0';
@@ -91,7 +96,7 @@
             this.metroTextBox1.SelectionLength = 0;
             this.metroTextBox1.SelectionStart = 0;
             this.metroTextBox1.ShortcutsEnabled = true;
-            this.metroTextBox1.Size = new System.Drawing.Size(223, 30);
+            this.metroTextBox1.Size = new System.Drawing.Size(297, 37);
             this.metroTextBox1.TabIndex = 3;
             this.metroTextBox1.Text = "metroTextBox1";
             this.metroTextBox1.UseSelectable = true;
@@ -110,9 +115,10 @@
             // 
             // 
             this.metroTextBox2.CustomButton.Image = null;
-            this.metroTextBox2.CustomButton.Location = new System.Drawing.Point(53, 1);
+            this.metroTextBox2.CustomButton.Location = new System.Drawing.Point(348, 1);
+            this.metroTextBox2.CustomButton.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroTextBox2.CustomButton.Name = "";
-            this.metroTextBox2.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.metroTextBox2.CustomButton.Size = new System.Drawing.Size(47, 43);
             this.metroTextBox2.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.metroTextBox2.CustomButton.TabIndex = 1;
             this.metroTextBox2.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -120,7 +126,8 @@
             this.metroTextBox2.CustomButton.Visible = false;
             this.metroTextBox2.Lines = new string[] {
         "metroTextBox2"};
-            this.metroTextBox2.Location = new System.Drawing.Point(188, 269);
+            this.metroTextBox2.Location = new System.Drawing.Point(251, 331);
+            this.metroTextBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroTextBox2.MaxLength = 32767;
             this.metroTextBox2.Name = "metroTextBox2";
             this.metroTextBox2.PasswordChar = '\0';
@@ -129,7 +136,7 @@
             this.metroTextBox2.SelectionLength = 0;
             this.metroTextBox2.SelectionStart = 0;
             this.metroTextBox2.ShortcutsEnabled = true;
-            this.metroTextBox2.Size = new System.Drawing.Size(223, 30);
+            this.metroTextBox2.Size = new System.Drawing.Size(297, 37);
             this.metroTextBox2.TabIndex = 4;
             this.metroTextBox2.Text = "metroTextBox2";
             this.metroTextBox2.UseSelectable = true;
@@ -139,26 +146,30 @@
             // metroButton1
             // 
             this.metroButton1.FontSize = MetroFramework.MetroButtonSize.Medium;
-            this.metroButton1.Location = new System.Drawing.Point(188, 329);
+            this.metroButton1.Location = new System.Drawing.Point(251, 405);
+            this.metroButton1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroButton1.Name = "metroButton1";
-            this.metroButton1.Size = new System.Drawing.Size(95, 35);
+            this.metroButton1.Size = new System.Drawing.Size(127, 43);
             this.metroButton1.TabIndex = 5;
             this.metroButton1.Text = "previous";
             this.metroButton1.UseSelectable = true;
+            this.metroButton1.Click += new System.EventHandler(this.metroButton1_Click);
             // 
             // metroButton2
             // 
             this.metroButton2.FontSize = MetroFramework.MetroButtonSize.Medium;
-            this.metroButton2.Location = new System.Drawing.Point(319, 329);
+            this.metroButton2.Location = new System.Drawing.Point(425, 405);
+            this.metroButton2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.metroButton2.Name = "metroButton2";
-            this.metroButton2.Size = new System.Drawing.Size(92, 35);
+            this.metroButton2.Size = new System.Drawing.Size(123, 43);
             this.metroButton2.TabIndex = 6;
             this.metroButton2.Text = "Next";
             this.metroButton2.UseSelectable = true;
+            this.metroButton2.Click += new System.EventHandler(this.metroButton2_Click);
             // 
             // SignUp2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.metroButton2);
             this.Controls.Add(this.metroButton1);
@@ -167,8 +178,9 @@
             this.Controls.Add(this.metroLabel3);
             this.Controls.Add(this.metroLabel2);
             this.Controls.Add(this.metroLabel1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "SignUp2";
-            this.Size = new System.Drawing.Size(600, 400);
+            this.Size = new System.Drawing.Size(800, 492);
             this.ResumeLayout(false);
 
         }
