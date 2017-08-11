@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace TutorHub
 {
-    public partial class Login : UserControl
+    public partial class Login : MetroFramework.Controls.MetroUserControl
     {
         public Login()
         {
