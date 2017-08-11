@@ -12,6 +12,16 @@ namespace TutorHub
 {
     public partial class Login : MetroFramework.Controls.MetroUserControl
     {
+        private static Login instance;
+        public static Login Instance
+        {
+            get
+            {
+                if (instance == null)
+                    instance = new Login();
+                return instance;
+            }
+        }
         public Login()
         {
             InitializeComponent();
