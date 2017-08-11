@@ -28,5 +28,10 @@ namespace TutorHub
             else
                 Login.Instance.BringToFront();
         }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+
+        }
     }
 }
