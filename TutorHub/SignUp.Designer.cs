@@ -1,6 +1,6 @@
 ﻿namespace TutorHub
 {
-    partial class Form1
+    partial class SignUp
     {
         /// <summary>
         /// Required designer variable.
@@ -30,15 +30,16 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // SignUp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1221, 685);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ClientSize = new System.Drawing.Size(812, 628);
+            this.MaximizeBox = false;
+            this.Name = "SignUp";
+            this.Text = "SignUp";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.SignUp_FormClosing);
+            this.Load += new System.EventHandler(this.SignUp_Load);
             this.ResumeLayout(false);
 
         }
@@ -46,4 +47,3 @@
         #endregion
     }
 }
-

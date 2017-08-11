@@ -12,6 +12,16 @@ namespace TutorHub
 {
     public partial class Form1 : MetroFramework.Forms.MetroForm
     {
+        private static Form1 instance;
+        public static Form1 Instance
+        {
+            get
+            {
+                if (instance == null)
+                    instance = new Form1();
+                return instance;
+            }
+        }
         public Form1()
         {
             InitializeComponent();
@@ -27,6 +37,11 @@ namespace TutorHub
             }
             else
                 Login.Instance.BringToFront();
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+
         }
     }
 }

@@ -56,12 +56,13 @@
             this.tableLoginMainPanel.Controls.Add(this.tableLayoutPanel1, 0, 1);
             this.tableLoginMainPanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLoginMainPanel.Location = new System.Drawing.Point(0, 0);
+            this.tableLoginMainPanel.Margin = new System.Windows.Forms.Padding(4);
             this.tableLoginMainPanel.Name = "tableLoginMainPanel";
             this.tableLoginMainPanel.RowCount = 3;
             this.tableLoginMainPanel.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 17.89709F));
             this.tableLoginMainPanel.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 73.15437F));
             this.tableLoginMainPanel.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 8.948545F));
-            this.tableLoginMainPanel.Size = new System.Drawing.Size(1040, 564);
+            this.tableLoginMainPanel.Size = new System.Drawing.Size(1387, 694);
             this.tableLoginMainPanel.TabIndex = 0;
             // 
             // tableLayoutPanel1
@@ -72,11 +73,12 @@
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel1.Controls.Add(this.tableLayoutPanel2, 1, 0);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(3, 103);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(4, 128);
+            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 1;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1034, 406);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1379, 499);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // tableLayoutPanel2
@@ -85,38 +87,41 @@
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel3, 0, 1);
             this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel4, 0, 0);
-            this.tableLayoutPanel2.Location = new System.Drawing.Point(209, 3);
+            this.tableLayoutPanel2.Location = new System.Drawing.Point(279, 4);
+            this.tableLayoutPanel2.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 2;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 73.50993F));
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 26.49007F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(614, 400);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(819, 491);
             this.tableLayoutPanel2.TabIndex = 0;
             // 
             // tableLayoutPanel3
             // 
             this.tableLayoutPanel3.ColumnCount = 3;
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 26.28952F));
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 48.75208F));
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 24.9584F));
+            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel3.Controls.Add(this.GoogleLoginTile, 1, 1);
             this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel3.Location = new System.Drawing.Point(3, 297);
+            this.tableLayoutPanel3.Location = new System.Drawing.Point(4, 364);
+            this.tableLayoutPanel3.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 3;
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10.53922F));
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 79.65686F));
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 9.803922F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(608, 100);
+            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
+            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 80F));
+            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(811, 123);
             this.tableLayoutPanel3.TabIndex = 0;
             // 
             // GoogleLoginTile
             // 
             this.GoogleLoginTile.ActiveControl = null;
             this.GoogleLoginTile.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.GoogleLoginTile.Location = new System.Drawing.Point(162, 13);
+            this.GoogleLoginTile.Location = new System.Drawing.Point(206, 16);
+            this.GoogleLoginTile.Margin = new System.Windows.Forms.Padding(4);
             this.GoogleLoginTile.Name = "GoogleLoginTile";
-            this.GoogleLoginTile.Size = new System.Drawing.Size(290, 73);
+            this.GoogleLoginTile.Size = new System.Drawing.Size(397, 90);
             this.GoogleLoginTile.TabIndex = 0;
             this.GoogleLoginTile.Text = "Login with google";
             this.GoogleLoginTile.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -125,25 +130,26 @@
             // tableLayoutPanel4
             // 
             this.tableLayoutPanel4.ColumnCount = 3;
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20.65637F));
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 79.34363F));
-            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 89F));
+            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 60F));
+            this.tableLayoutPanel4.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
             this.tableLayoutPanel4.Controls.Add(this.tableLayoutPanel5, 1, 5);
             this.tableLayoutPanel4.Controls.Add(this.metroLabel1, 1, 0);
             this.tableLayoutPanel4.Controls.Add(this.metroLabel2, 1, 2);
             this.tableLayoutPanel4.Controls.Add(this.metroTextBoxUserName, 1, 1);
             this.tableLayoutPanel4.Controls.Add(this.metroTextBox2, 1, 3);
             this.tableLayoutPanel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel4.Location = new System.Drawing.Point(3, 3);
+            this.tableLayoutPanel4.Location = new System.Drawing.Point(4, 4);
+            this.tableLayoutPanel4.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel4.Name = "tableLayoutPanel4";
             this.tableLayoutPanel4.RowCount = 6;
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18.31532F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18.62162F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18.01802F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18.01802F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 9.009009F));
-            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18.01802F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(608, 288);
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
+            this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 18F));
+            this.tableLayoutPanel4.Size = new System.Drawing.Size(811, 352);
             this.tableLayoutPanel4.TabIndex = 1;
             // 
             // tableLayoutPanel5
@@ -158,12 +164,13 @@
             this.tableLayoutPanel5.Controls.Add(this.metroButton1, 1, 0);
             this.tableLayoutPanel5.Controls.Add(this.metroButton2, 3, 0);
             this.tableLayoutPanel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel5.Location = new System.Drawing.Point(110, 235);
+            this.tableLayoutPanel5.Location = new System.Drawing.Point(166, 291);
+            this.tableLayoutPanel5.Margin = new System.Windows.Forms.Padding(4);
             this.tableLayoutPanel5.Name = "tableLayoutPanel5";
             this.tableLayoutPanel5.RowCount = 1;
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
-            this.tableLayoutPanel5.Size = new System.Drawing.Size(405, 50);
+            this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 57F));
+            this.tableLayoutPanel5.Size = new System.Drawing.Size(478, 57);
             this.tableLayoutPanel5.TabIndex = 0;
             // 
             // metroButton1
@@ -171,9 +178,10 @@
             this.metroButton1.BackColor = System.Drawing.Color.RoyalBlue;
             this.metroButton1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.metroButton1.FontSize = MetroFramework.MetroButtonSize.Medium;
-            this.metroButton1.Location = new System.Drawing.Point(43, 3);
+            this.metroButton1.Location = new System.Drawing.Point(51, 4);
+            this.metroButton1.Margin = new System.Windows.Forms.Padding(4);
             this.metroButton1.Name = "metroButton1";
-            this.metroButton1.Size = new System.Drawing.Size(135, 44);
+            this.metroButton1.Size = new System.Drawing.Size(159, 49);
             this.metroButton1.TabIndex = 0;
             this.metroButton1.Text = "Sign In";
             this.metroButton1.UseCustomBackColor = true;
@@ -185,23 +193,25 @@
             this.metroButton2.BackColor = System.Drawing.Color.Chartreuse;
             this.metroButton2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.metroButton2.FontSize = MetroFramework.MetroButtonSize.Medium;
-            this.metroButton2.Location = new System.Drawing.Point(224, 3);
+            this.metroButton2.Location = new System.Drawing.Point(265, 4);
+            this.metroButton2.Margin = new System.Windows.Forms.Padding(4);
             this.metroButton2.Name = "metroButton2";
-            this.metroButton2.Size = new System.Drawing.Size(135, 44);
+            this.metroButton2.Size = new System.Drawing.Size(159, 49);
             this.metroButton2.TabIndex = 1;
             this.metroButton2.Text = "Sign Up\r\n";
             this.metroButton2.UseCustomBackColor = true;
             this.metroButton2.UseSelectable = true;
+            this.metroButton2.Click += new System.EventHandler(this.metroButton2_Click);
             // 
             // metroLabel1
             // 
             this.metroLabel1.AutoSize = true;
             this.metroLabel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.metroLabel1.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel1.Location = new System.Drawing.Point(112, 5);
-            this.metroLabel1.Margin = new System.Windows.Forms.Padding(5);
+            this.metroLabel1.Location = new System.Drawing.Point(169, 6);
+            this.metroLabel1.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.metroLabel1.Name = "metroLabel1";
-            this.metroLabel1.Size = new System.Drawing.Size(401, 42);
+            this.metroLabel1.Size = new System.Drawing.Size(472, 51);
             this.metroLabel1.Style = MetroFramework.MetroColorStyle.Black;
             this.metroLabel1.TabIndex = 1;
             this.metroLabel1.Text = "User name or Email";
@@ -212,10 +222,10 @@
             this.metroLabel2.AutoSize = true;
             this.metroLabel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.metroLabel2.FontWeight = MetroFramework.MetroLabelWeight.Bold;
-            this.metroLabel2.Location = new System.Drawing.Point(112, 110);
-            this.metroLabel2.Margin = new System.Windows.Forms.Padding(5);
+            this.metroLabel2.Location = new System.Drawing.Point(169, 132);
+            this.metroLabel2.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.metroLabel2.Name = "metroLabel2";
-            this.metroLabel2.Size = new System.Drawing.Size(401, 41);
+            this.metroLabel2.Size = new System.Drawing.Size(472, 51);
             this.metroLabel2.TabIndex = 2;
             this.metroLabel2.Text = "Password";
             this.metroLabel2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -226,9 +236,10 @@
             // 
             // 
             this.metroTextBoxUserName.CustomButton.Image = null;
-            this.metroTextBoxUserName.CustomButton.Location = new System.Drawing.Point(367, 1);
+            this.metroTextBoxUserName.CustomButton.Location = new System.Drawing.Point(434, 1);
+            this.metroTextBoxUserName.CustomButton.Margin = new System.Windows.Forms.Padding(4);
             this.metroTextBoxUserName.CustomButton.Name = "";
-            this.metroTextBoxUserName.CustomButton.Size = new System.Drawing.Size(37, 37);
+            this.metroTextBoxUserName.CustomButton.Size = new System.Drawing.Size(43, 43);
             this.metroTextBoxUserName.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.metroTextBoxUserName.CustomButton.TabIndex = 1;
             this.metroTextBoxUserName.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -237,8 +248,8 @@
             this.metroTextBoxUserName.Dock = System.Windows.Forms.DockStyle.Fill;
             this.metroTextBoxUserName.Lines = new string[] {
         "username or password"};
-            this.metroTextBoxUserName.Location = new System.Drawing.Point(110, 59);
-            this.metroTextBoxUserName.Margin = new System.Windows.Forms.Padding(3, 7, 3, 7);
+            this.metroTextBoxUserName.Location = new System.Drawing.Point(166, 72);
+            this.metroTextBoxUserName.Margin = new System.Windows.Forms.Padding(4, 9, 4, 9);
             this.metroTextBoxUserName.MaxLength = 32767;
             this.metroTextBoxUserName.Name = "metroTextBoxUserName";
             this.metroTextBoxUserName.PasswordChar = '\0';
@@ -247,7 +258,7 @@
             this.metroTextBoxUserName.SelectionLength = 0;
             this.metroTextBoxUserName.SelectionStart = 0;
             this.metroTextBoxUserName.ShortcutsEnabled = true;
-            this.metroTextBoxUserName.Size = new System.Drawing.Size(405, 39);
+            this.metroTextBoxUserName.Size = new System.Drawing.Size(478, 45);
             this.metroTextBoxUserName.TabIndex = 3;
             this.metroTextBoxUserName.Text = "username or password";
             this.metroTextBoxUserName.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -262,9 +273,10 @@
             // 
             // 
             this.metroTextBox2.CustomButton.Image = null;
-            this.metroTextBox2.CustomButton.Location = new System.Drawing.Point(369, 1);
+            this.metroTextBox2.CustomButton.Location = new System.Drawing.Point(434, 1);
+            this.metroTextBox2.CustomButton.Margin = new System.Windows.Forms.Padding(4);
             this.metroTextBox2.CustomButton.Name = "";
-            this.metroTextBox2.CustomButton.Size = new System.Drawing.Size(35, 35);
+            this.metroTextBox2.CustomButton.Size = new System.Drawing.Size(43, 43);
             this.metroTextBox2.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
             this.metroTextBox2.CustomButton.TabIndex = 1;
             this.metroTextBox2.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
@@ -273,8 +285,8 @@
             this.metroTextBox2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.metroTextBox2.Lines = new string[] {
         "metroTextBox2"};
-            this.metroTextBox2.Location = new System.Drawing.Point(110, 163);
-            this.metroTextBox2.Margin = new System.Windows.Forms.Padding(3, 7, 3, 7);
+            this.metroTextBox2.Location = new System.Drawing.Point(166, 198);
+            this.metroTextBox2.Margin = new System.Windows.Forms.Padding(4, 9, 4, 9);
             this.metroTextBox2.MaxLength = 32767;
             this.metroTextBox2.Name = "metroTextBox2";
             this.metroTextBox2.PasswordChar = '\0';
@@ -283,7 +295,7 @@
             this.metroTextBox2.SelectionLength = 0;
             this.metroTextBox2.SelectionStart = 0;
             this.metroTextBox2.ShortcutsEnabled = true;
-            this.metroTextBox2.Size = new System.Drawing.Size(405, 37);
+            this.metroTextBox2.Size = new System.Drawing.Size(478, 45);
             this.metroTextBox2.TabIndex = 4;
             this.metroTextBox2.Text = "metroTextBox2";
             this.metroTextBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -294,11 +306,12 @@
             // 
             // Login
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.tableLoginMainPanel);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Login";
-            this.Size = new System.Drawing.Size(1040, 564);
+            this.Size = new System.Drawing.Size(1387, 694);
             this.tableLoginMainPanel.ResumeLayout(false);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel2.ResumeLayout(false);
@@ -323,7 +336,7 @@
         private MetroFramework.Controls.MetroButton metroButton2;
         private MetroFramework.Controls.MetroLabel metroLabel1;
         private MetroFramework.Controls.MetroLabel metroLabel2;
-        private MetroFramework.Controls.MetroTextBox metroTextBoxUserName;
         private MetroFramework.Controls.MetroTextBox metroTextBox2;
+        private MetroFramework.Controls.MetroTextBox metroTextBoxUserName;
     }
 }
