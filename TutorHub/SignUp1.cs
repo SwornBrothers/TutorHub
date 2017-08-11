@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace TutorHub
 {
-    public partial class SignUp : MetroFramework.Controls.MetroUserControl
+    public partial class SignUp1 : MetroFramework.Controls.MetroUserControl
     {
-        public SignUp()
+        public SignUp1()
         {
             InitializeComponent();
+        }
+
+        private void metroLabel1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
