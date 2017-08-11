@@ -100,22 +100,23 @@
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 48.75208F));
             this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 24.9584F));
             this.tableLayoutPanel3.Controls.Add(this.GoogleLoginTile, 1, 1);
+            this.tableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel3.Location = new System.Drawing.Point(3, 297);
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 3;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10.53922F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 79.65686F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 9.803922F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(602, 100);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(608, 100);
             this.tableLayoutPanel3.TabIndex = 0;
             // 
             // GoogleLoginTile
             // 
             this.GoogleLoginTile.ActiveControl = null;
             this.GoogleLoginTile.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.GoogleLoginTile.Location = new System.Drawing.Point(161, 13);
+            this.GoogleLoginTile.Location = new System.Drawing.Point(162, 13);
             this.GoogleLoginTile.Name = "GoogleLoginTile";
-            this.GoogleLoginTile.Size = new System.Drawing.Size(287, 73);
+            this.GoogleLoginTile.Size = new System.Drawing.Size(290, 73);
             this.GoogleLoginTile.TabIndex = 0;
             this.GoogleLoginTile.Text = "Login with google";
             this.GoogleLoginTile.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -216,7 +217,7 @@
             this.metroLabel2.Name = "metroLabel2";
             this.metroLabel2.Size = new System.Drawing.Size(401, 41);
             this.metroLabel2.TabIndex = 2;
-            this.metroLabel2.Text = "lPassword";
+            this.metroLabel2.Text = "Password";
             this.metroLabel2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // metroTextBoxUserName
