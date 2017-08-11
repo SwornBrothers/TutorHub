@@ -31,10 +31,10 @@
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel2 = new MetroFramework.Controls.MetroLabel();
             this.metroTextBox1 = new MetroFramework.Controls.MetroTextBox();
-            this.metroLink1 = new MetroFramework.Controls.MetroLink();
             this.metroTextBox2 = new MetroFramework.Controls.MetroTextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.metroLabel3 = new MetroFramework.Controls.MetroLabel();
+            this.btnGoogle = new MetroFramework.Controls.MetroButton();
             this.SuspendLayout();
             // 
             // metroLabel1
@@ -99,18 +99,6 @@
             this.metroTextBox1.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.metroTextBox1.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
             // 
-            // metroLink1
-            // 
-            this.metroLink1.DisplayFocus = true;
-            this.metroLink1.FontWeight = MetroFramework.MetroLinkWeight.Regular;
-            this.metroLink1.Location = new System.Drawing.Point(292, 425);
-            this.metroLink1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.metroLink1.Name = "metroLink1";
-            this.metroLink1.Size = new System.Drawing.Size(221, 28);
-            this.metroLink1.TabIndex = 3;
-            this.metroLink1.Text = "social sign up";
-            this.metroLink1.UseSelectable = true;
-            // 
             // metroTextBox2
             // 
             // 
@@ -172,14 +160,24 @@
             this.metroLabel3.Theme = MetroFramework.MetroThemeStyle.Light;
             this.metroLabel3.UseCustomBackColor = true;
             // 
+            // btnGoogle
+            // 
+            this.btnGoogle.Location = new System.Drawing.Point(327, 418);
+            this.btnGoogle.Name = "btnGoogle";
+            this.btnGoogle.Size = new System.Drawing.Size(154, 38);
+            this.btnGoogle.TabIndex = 7;
+            this.btnGoogle.Text = "Google Sign Up";
+            this.btnGoogle.UseSelectable = true;
+            this.btnGoogle.Click += new System.EventHandler(this.btnGoogle_Click);
+            // 
             // SignUp1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.btnGoogle);
             this.Controls.Add(this.metroLabel3);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.metroTextBox2);
-            this.Controls.Add(this.metroLink1);
             this.Controls.Add(this.metroTextBox1);
             this.Controls.Add(this.metroLabel2);
             this.Controls.Add(this.metroLabel1);
@@ -191,13 +189,12 @@
         }
 
         #endregion
-
-        private MetroFramework.Controls.MetroLabel metroLabel1;
         private MetroFramework.Controls.MetroLabel metroLabel2;
-        private MetroFramework.Controls.MetroTextBox metroTextBox1;
-        private MetroFramework.Controls.MetroLink metroLink1;
         private MetroFramework.Controls.MetroTextBox metroTextBox2;
         private System.Windows.Forms.Button button1;
         private MetroFramework.Controls.MetroLabel metroLabel3;
+        private MetroFramework.Controls.MetroButton btnGoogle;
+        public MetroFramework.Controls.MetroLabel metroLabel1;
+        public MetroFramework.Controls.MetroTextBox metroTextBox1;
     }
 }

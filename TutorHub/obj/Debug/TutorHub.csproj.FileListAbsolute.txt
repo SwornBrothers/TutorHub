@@ -27,3 +27,5 @@ F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp.resources
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp1.resources
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp2.resources
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp3.resources
+F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\Newtonsoft.Json.dll
+F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\Newtonsoft.Json.xml
