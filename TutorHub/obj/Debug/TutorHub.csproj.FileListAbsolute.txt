@@ -11,3 +11,16 @@ F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.Properties.Resources
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.csproj.GenerateResource.Cache
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.exe
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.pdb
+F:\c# codes\TutorHub\TutorHub\bin\Debug\TutorHub.exe.config
+F:\c# codes\TutorHub\TutorHub\bin\Debug\TutorHub.exe
+F:\c# codes\TutorHub\TutorHub\bin\Debug\TutorHub.pdb
+F:\c# codes\TutorHub\TutorHub\bin\Debug\MetroFramework.Design.dll
+F:\c# codes\TutorHub\TutorHub\bin\Debug\MetroFramework.dll
+F:\c# codes\TutorHub\TutorHub\bin\Debug\MetroFramework.Fonts.dll
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.csprojResolveAssemblyReference.cache
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.Login.resources
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.Properties.Resources.resources
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp.resources
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.csproj.GenerateResource.Cache
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.exe
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.pdb
