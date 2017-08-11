@@ -16,5 +16,17 @@ namespace TutorHub
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            if (!this.Controls.Contains(Login.Instance))
+            {
+                this.Controls.Add(Login.Instance);
+                Login.Instance.Dock = DockStyle.Fill;
+                Login.Instance.BringToFront();
+            }
+            else
+                Login.Instance.BringToFront();
+        }
     }
 }
