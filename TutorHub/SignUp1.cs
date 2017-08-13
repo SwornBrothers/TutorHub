@@ -36,5 +36,11 @@ namespace TutorHub
         {
             SignUp2.Instance.BringToFront();
         }
+
+        private void btnGoogle_Click(object sender, EventArgs e)
+        {
+            GoogleClass p = new GoogleClass();
+            p.doOAuth();
+        }
     }
 }

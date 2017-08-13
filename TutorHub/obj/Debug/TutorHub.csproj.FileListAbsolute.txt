@@ -27,8 +27,17 @@ F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp.resources
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp1.resources
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp2.resources
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp3.resources
+<<<<<<< HEAD
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.EditProfile.resources
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp1.resources
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp2.resources
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp3.resources
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.ViewProfile.resources
+=======
+F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\Newtonsoft.Json.dll
+F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\Newtonsoft.Json.xml
+F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.EditProfile.resources
+F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.ViewProfile.resources
+F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\S22.Imap.dll
+F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.Email.resources
+>>>>>>> 36f7c5277e4202b511c1c18a2be833dfc8b750e1
