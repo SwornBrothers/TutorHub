@@ -27,3 +27,8 @@ F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp.resources
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp1.resources
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp2.resources
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp3.resources
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.EditProfile.resources
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp1.resources
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp2.resources
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp3.resources
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.ViewProfile.resources
