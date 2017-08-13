@@ -31,3 +31,5 @@ F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\Newtonsoft.Json.dll
 F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\Newtonsoft.Json.xml
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.EditProfile.resources
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.ViewProfile.resources
+F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\S22.Imap.dll
+F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.Email.resources
