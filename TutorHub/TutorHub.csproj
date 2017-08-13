@@ -43,7 +43,7 @@
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Code\oauth-apps-for-windows-master\oauth-apps-for-windows-master\OAuthConsoleApp\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\packages\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="S22.Imap, Version=3.6.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -64,9 +64,24 @@
   <ItemGroup>
     <Compile Include="AddPost.cs">
       <SubType>UserControl</SubType>
+<<<<<<< HEAD
     </Compile>
     <Compile Include="AddPost.Designer.cs">
       <DependentUpon>AddPost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Email.cs">
+      <SubType>Form</SubType>
+=======
+>>>>>>> ff1f4b1c5000bae73e4368376fe7c5d11fa7d1df
+    </Compile>
+    <Compile Include="AddPost.Designer.cs">
+      <DependentUpon>AddPost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditProfile.Designer.cs">
+      <DependentUpon>EditProfile.cs</DependentUpon>
     </Compile>
     <Compile Include="Email.cs">
       <SubType>Form</SubType>
@@ -74,19 +89,16 @@
     <Compile Include="Email.Designer.cs">
       <DependentUpon>Email.cs</DependentUpon>
     </Compile>
-    <Compile Include="GoogleClass.cs" />
-    <Compile Include="EditProfile.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="EditProfile.Designer.cs">
-      <DependentUpon>EditProfile.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
+=======
+    <Compile Include="GoogleClass.cs" />
+>>>>>>> ff1f4b1c5000bae73e4368376fe7c5d11fa7d1df
     <Compile Include="HomePage.cs">
       <SubType>UserControl</SubType>
     </Compile>
