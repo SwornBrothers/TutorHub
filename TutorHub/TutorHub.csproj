@@ -62,21 +62,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddPost.cs">
-      <SubType>UserControl</SubType>
-<<<<<<< HEAD
-    </Compile>
-    <Compile Include="AddPost.Designer.cs">
-      <DependentUpon>AddPost.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Email.cs">
-      <SubType>Form</SubType>
-=======
->>>>>>> ff1f4b1c5000bae73e4368376fe7c5d11fa7d1df
-    </Compile>
-    <Compile Include="AddPost.Designer.cs">
-      <DependentUpon>AddPost.cs</DependentUpon>
-    </Compile>
     <Compile Include="EditProfile.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -95,10 +80,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-<<<<<<< HEAD
-=======
     <Compile Include="GoogleClass.cs" />
->>>>>>> ff1f4b1c5000bae73e4368376fe7c5d11fa7d1df
     <Compile Include="HomePage.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -149,9 +131,6 @@
     <Compile Include="ViewProfile.Designer.cs">
       <DependentUpon>ViewProfile.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="AddPost.resx">
-      <DependentUpon>AddPost.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="EditProfile.resx">
       <DependentUpon>EditProfile.cs</DependentUpon>
     </EmbeddedResource>
