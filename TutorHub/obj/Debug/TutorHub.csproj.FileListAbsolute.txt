@@ -44,6 +44,7 @@ F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.ViewProfile.resources
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.csproj.GenerateResource.Cache
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.exe
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.pdb
+<<<<<<< HEAD
 F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\TutorHub.exe.config
 F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\TutorHub.exe
 F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\TutorHub.pdb
@@ -67,3 +68,5 @@ F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.ViewProfile.resource
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.csproj.GenerateResource.Cache
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.exe
 F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.pdb
+=======
+>>>>>>> 27978f7094ef1c42bda38b569c99b3c4f1cfaca0
