@@ -1,26 +1,3 @@
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\bin\Debug\TutorHub.exe.config
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\bin\Debug\TutorHub.exe
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\bin\Debug\TutorHub.pdb
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\bin\Debug\MetroFramework.Design.dll
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\bin\Debug\MetroFramework.dll
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\bin\Debug\MetroFramework.Fonts.dll
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\bin\Debug\Newtonsoft.Json.dll
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\bin\Debug\S22.Imap.dll
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.csprojResolveAssemblyReference.cache
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.EditProfile.resources
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.Email.resources
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.HomePage.resources
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.Login.resources
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.Properties.Resources.resources
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.SignlePostTemplete.resources
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.SignUp.resources
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.SignUp1.resources
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.SignUp2.resources
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.SignUp3.resources
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.ViewProfile.resources
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.csproj.GenerateResource.Cache
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.exe
-C:\Users\bakif\Downloads\Compressed\TutorHub-master\TutorHub-master\TutorHub\obj\Debug\TutorHub.pdb
 F:\c# codes\TutorHub\TutorHub\bin\Debug\TutorHub.exe.config
 F:\c# codes\TutorHub\TutorHub\bin\Debug\TutorHub.exe
 F:\c# codes\TutorHub\TutorHub\bin\Debug\TutorHub.pdb
@@ -30,6 +7,7 @@ F:\c# codes\TutorHub\TutorHub\bin\Debug\MetroFramework.Fonts.dll
 F:\c# codes\TutorHub\TutorHub\bin\Debug\Newtonsoft.Json.dll
 F:\c# codes\TutorHub\TutorHub\bin\Debug\S22.Imap.dll
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.csprojResolveAssemblyReference.cache
+F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.AddPostPage.resources
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.EditProfile.resources
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.Email.resources
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.HomePage.resources
@@ -44,29 +22,3 @@ F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.ViewProfile.resources
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.csproj.GenerateResource.Cache
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.exe
 F:\c# codes\TutorHub\TutorHub\obj\Debug\TutorHub.pdb
-<<<<<<< HEAD
-F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\TutorHub.exe.config
-F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\TutorHub.exe
-F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\TutorHub.pdb
-F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\MetroFramework.Design.dll
-F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\MetroFramework.dll
-F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\MetroFramework.Fonts.dll
-F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\Newtonsoft.Json.dll
-F:\OneDrive\C# Project\TutorHub\TutorHub\bin\Debug\S22.Imap.dll
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.csprojResolveAssemblyReference.cache
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.EditProfile.resources
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.Email.resources
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.HomePage.resources
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.Login.resources
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.Properties.Resources.resources
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignlePostTemplete.resources
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp.resources
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp1.resources
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp2.resources
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.SignUp3.resources
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.ViewProfile.resources
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.csproj.GenerateResource.Cache
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.exe
-F:\OneDrive\C# Project\TutorHub\TutorHub\obj\Debug\TutorHub.pdb
-=======
->>>>>>> 27978f7094ef1c42bda38b569c99b3c4f1cfaca0

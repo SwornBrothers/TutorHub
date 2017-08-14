@@ -62,6 +62,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddPostPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddPostPage.Designer.cs">
+      <DependentUpon>AddPostPage.cs</DependentUpon>
+    </Compile>
     <Compile Include="EditProfile.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -131,6 +137,9 @@
     <Compile Include="ViewProfile.Designer.cs">
       <DependentUpon>ViewProfile.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="AddPostPage.resx">
+      <DependentUpon>AddPostPage.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="EditProfile.resx">
       <DependentUpon>EditProfile.cs</DependentUpon>
     </EmbeddedResource>
