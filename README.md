@@ -23,4 +23,11 @@ TutorHub is a Windows desktop application (WinForms) that connects students who 
 
 Build and run the app from Visual Studio (e.g. press F5, or **Debug > Start Debugging**).
 
+You can also build and run from the command line using a Developer Command Prompt for Visual Studio:
+
+```
+msbuild TutorHub.sln /p:Configuration=Debug
+TutorHub\bin\Debug\TutorHub.exe
+```
+
 Note: the app currently opens the **Email** screen on startup instead of **Login** (see `TutorHub/Program.cs`). This appears to be a debug leftover rather than the intended startup flow.
