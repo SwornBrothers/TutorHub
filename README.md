@@ -1,6 +1,6 @@
 # TutorHub
 
-**⚠️ This project should be archived. It is no longer maintained and has known, unresolved security issues. Do not use it in its current state.**
+**⚠️ This project should be archived. It is no longer maintained, has known, unresolved security issues, and relies on an outdated technology stack. Do not use it in its current state.**
 
 ## Overview
 
