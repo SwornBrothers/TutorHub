@@ -1,5 +1,7 @@
 # TutorHub
 
+**⚠️ This project should be archived. It is no longer maintained, has known, unresolved security issues, and relies on an outdated technology stack. Do not use it in its current state.**
+
 ## Overview
 
 TutorHub is a Windows desktop application (WinForms) that connects students who need help with coursework to others who can help them. Students create a profile describing their educational background and skills, then post about the courses or topics they'd like help with. Other users can browse existing profiles and posts, and reach out to a student directly via a "Contact" action. The app also includes email functionality (via IMAP) and an in-progress Google account sign-up / Classroom integration.
